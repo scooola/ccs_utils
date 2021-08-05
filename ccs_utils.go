@@ -4,3 +4,5 @@
 //Σ(っ °Д °;)っ
 
 package ccs_utils
+
+import _ "ccs_utils/zookeeper"
